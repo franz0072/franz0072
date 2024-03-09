@@ -26,10 +26,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="www.linkedin.com/in/francisbm1" target="www.linkedin.com/in/francisbm1" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
-       alt="LinkedIn" width="40" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/francisbm1" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
+         alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
+
 
 </p>
 
