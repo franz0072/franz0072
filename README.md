@@ -19,8 +19,10 @@
   />
 </p>
 
-- 🔭 I’m currently working on **school websites** - 🌱 I’m currently learning
-**React, Node.js** - 📫 How to reach me **francisfr007@gmail.com**
+- 🔭 I’m currently working on **school websites** - <br>
+- 🌱 I’m currently learning 
+**React, Node.js** <br>
+- 📫 How to reach me **francisfr007@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
