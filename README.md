@@ -19,7 +19,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **school websites** management - <br>
+- 🔭 I’m currently working on **school websites management**  <br>
 - 🌱 I’m currently learning 
 **React, Node.js** <br>
 - 📫 How to reach me **francisfr007@gmail.com** <br>
