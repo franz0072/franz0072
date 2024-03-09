@@ -1,3 +1,5 @@
+![logo](https://github.com/franz0072/franz0072/blob/main/Untitled%20design%20(1).gif)
+
 <h1 align="center">Hi 👋, I'm Francis</h1>
 <h3 align="center">
   "Crafting Digital Experiences with Code: The Art of Web Development"
