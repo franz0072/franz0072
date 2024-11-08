@@ -191,6 +191,14 @@
 
 
 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
+    alt="Laravel"
+    width="40"
+    height="40"
+  />
+</a>
 
 
 
