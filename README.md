@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **school websites management using php and bootstrap**  <br>
 - 🌱 I’m currently learning 
 **React, Node.js , Laravel** <br>
-- 📫 How to reach me **francisfr007@gmail.com** <br>
+- 📫 How to reach me <br> ✉️ **Email:** **francisfr007@gmail.com**   <br> 📞 **WhatsApp:** **8138847698** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,52 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
-       alt="JavaScript" width="40" height="40" />
-</a>
 
 
-
-
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -100,13 +57,30 @@
     />
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+       alt="JavaScript" width="40" height="40" />
+</a>
+
+<!-- jQuery Icon -->
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+    alt="jQuery"
+    width="40"
+    height="40"
+  />
+</a>
+
+
+
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
        alt="bootstrap" width="40" height="40" />
 </a>
 
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+<a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="php"
@@ -114,6 +88,8 @@
       height="40"
     />
   </a>
+
+
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -124,6 +100,70 @@
     />
   </a>
 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+       alt="React" width="40" height="40" />
+</a>
+
+<!-- Node.js Icon -->
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="Node.js"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    alt="Express"
+    width="40"
+    height="40"
+  />
+</a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -133,15 +173,26 @@
     />
   </a>
 
+  <!-- Postman Icon -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+    alt="Postman"
+    width="40"
+    height="40"
+  />
+</a>
+
+
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
        alt="Photoshop" width="40" height="40" />
 </a>
 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-       alt="React" width="40" height="40" />
-</a>
+
+
+
+
 
 </p>
 
