@@ -138,6 +138,11 @@
        alt="Photoshop" width="40" height="40" />
 </a>
 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+       alt="React" width="40" height="40" />
+</a>
+
 </p>
 
 <p>
