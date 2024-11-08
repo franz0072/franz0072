@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **school websites management using php and bootstrap**  <br>
 - 🌱 I’m currently learning 
-**React, Node.js , laravel** <br>
+**React, Node.js , Laravel** <br>
 - 📫 How to reach me **francisfr007@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
