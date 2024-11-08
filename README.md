@@ -19,9 +19,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **school websites management**  <br>
+- 🔭 I’m currently working on **school websites management using php and bootstrap**  <br>
 - 🌱 I’m currently learning 
-**React, Node.js** <br>
+**React, Node.js , laravel** <br>
 - 📫 How to reach me **francisfr007@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
