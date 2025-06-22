@@ -21,7 +21,7 @@
 
 - 🔭 Experienced web developer seeking a good job opportunity to further develop my coding skills <br>
 - 🌱 I’m currently learning 
-**React, DSA , Laravel** <br>
+**Javascript , React with tailwind, DSA with python , Laravel api** <br>
 - 📫 How to reach me <br> ✉️ **Email:** **francisfr007@gmail.com**   <br> 📞 **WhatsApp:** **8138847698** <br>
 
 <h3 align="left">Connect with me:</h3>
