@@ -19,9 +19,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on **school websites management using php and bootstrap**  <br>
+- 🔭 Experienced web developer seeking a good job opportunity to further develop my coding skills <br>
 - 🌱 I’m currently learning 
-**React, Node.js , Laravel** <br>
+**React, DSA , Laravel** <br>
 - 📫 How to reach me <br> ✉️ **Email:** **francisfr007@gmail.com**   <br> 📞 **WhatsApp:** **8138847698** <br>
 
 <h3 align="left">Connect with me:</h3>
