@@ -19,9 +19,9 @@
   />
 </p>
 
-- 🔭 Experienced web developer seeking a good job opportunity to further develop my coding skills <br>
+- 🔭 I'm a web developer specializing in Laravel and WordPress, with a passion for turning complex business requirements into clean, maintainable, and high-performing code. <br>
 - 🌱 I’m currently learning 
-**Javascript , React with tailwind, DSA with python , Laravel api** <br>
+**Javascript ,tailwind, DSA with python , Laravel api and Wordpress** <br>
 - 📫 How to reach me <br> ✉️ **Email:** **francisfr007@gmail.com**   <br> 📞 **WhatsApp:** **8138847698** <br>
 
 <h3 align="left">Connect with me:</h3>
