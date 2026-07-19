@@ -108,17 +108,11 @@ Building scalable web applications with Laravel, REST APIs, and modern backend t
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=franz0072&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=franz0072&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=franz0072&layout=compact&theme=github_dark&hide_border=true"
-  height="170"
-/>
-
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franz0072&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
