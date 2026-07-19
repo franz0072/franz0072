@@ -24,7 +24,7 @@ Building scalable web applications with Laravel, REST APIs, and modern backend t
 - 🚀 2+ years of experience in **Laravel, PHP & MySQL**
 - 📱 Developing REST APIs for Flutter & Web Applications
 - ☁️ Experience deploying Laravel applications on **AWS**
-- 🌱 Currently learning **React, Tailwind CSS, Docker & DSA**
+- 🌱 Currently learning **React, Tailwind CSS & DSA**
 - 🎯 Goal: Become a Senior Laravel / Full Stack Developer
 
 ---
@@ -73,8 +73,6 @@ Building scalable web applications with Laravel, REST APIs, and modern backend t
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
 </p>
 
 ---
@@ -104,9 +102,6 @@ Building scalable web applications with Laravel, REST APIs, and modern backend t
 ## 📚 Currently Building
 
 - 🚀 SaaS Project Management System
-- 🏡 Real Estate Platform
-- 🛒 Laravel E-Commerce Platform
-- 💰 Expense Tracker
 
 ---
 
