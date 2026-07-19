@@ -1,229 +1,157 @@
-![logo](https://github.com/franz0072/franz0072/blob/main/Untitled%20design%20(1).gif)
+<p align="center">
+    <img src="git.png" alt="Banner" width="100%">
+</p>
 
-<h1 align="center">Hi 👋, I'm Francis</h1>
+<h1 align="center">Hi 👋, I'm Francis B M</h1>
+
 <h3 align="center">
-  "Crafting Digital Experiences with Code: The Art of Web Development"
+Laravel Backend Developer | PHP | MySQL | REST APIs | AWS
 </h3>
 
-<img
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
-/>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=franz0072&label=Profile%20views&color=0e75b6&style=flat"
-    alt="franz0072"
-  />
+<p align="center">
+Building scalable web applications with Laravel, REST APIs, and modern backend technologies.
 </p>
 
-- 🔭 I'm a web developer specializing in Laravel and WordPress, with a passion for turning complex business requirements into clean, maintainable, and high-performing code. <br>
-- 🌱 I’m currently learning 
-**Javascript ,tailwind, DSA with python , Laravel api and Wordpress** <br>
-- 📫 How to reach me <br> ✉️ **Email:** **francisfr007@gmail.com**   <br> 📞 **WhatsApp:** **8138847698** <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/francisbm1" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
-         alt="LinkedIn" width="40" height="40" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=franz0072&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
+---
 
-</p>
+# 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+- 💼 Software Engineer at **Hiworth Solutions Pvt Ltd**
+- 🚀 2+ years of experience in **Laravel, PHP & MySQL**
+- 📱 Developing REST APIs for Flutter & Web Applications
+- ☁️ Experience deploying Laravel applications on **AWS**
+- 🌱 Currently learning **React, Tailwind CSS, Docker & DSA**
+- 🎯 Goal: Become a Senior Laravel / Full Stack Developer
 
+---
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
+# 🛠 Tech Stack
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
-       alt="JavaScript" width="40" height="40" />
-</a>
-
-<!-- jQuery Icon -->
-<a href="https://jquery.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-    alt="jQuery"
-    width="40"
-    height="40"
-  />
-</a>
-
-
-
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
-       alt="bootstrap" width="40" height="40" />
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-       alt="React" width="40" height="40" />
-</a>
-
-<!-- Node.js Icon -->
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="Node.js"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="Express"
-    width="40"
-    height="40"
-  />
-</a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <!-- Postman Icon -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
-    alt="Postman"
-    width="40"
-    height="40"
-  />
-</a>
-
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
-       alt="Photoshop" width="40" height="40" />
-</a>
-
-
-
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
-    alt="Laravel"
-    width="40"
-    height="40"
-  />
-</a>
-
-
-
-</p>
+### Backend
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=franz0072&show_icons=true&locale=en&layout=compact"
-    alt="franz0072"
-  />
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=franz0072&show_icons=true&locale=en"
-    alt="franz0072"
-  />
-</p>
+### Database
 
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=franz0072&"
-    alt="franz0072"
-  />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
+
+### Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🦌 Caza Hunting Platform
+
+✔ Laravel Backend
+
+✔ REST APIs
+
+✔ Flutter Integration
+
+✔ Hunt Management
+
+✔ Booking System
+
+✔ Notifications
+
+✔ Google Maps
+
+✔ AWS Deployment
+
+---
+
+## 📚 Currently Building
+
+- 🚀 SaaS Project Management System
+- 🏡 Real Estate Platform
+- 🛒 Laravel E-Commerce Platform
+- 💰 Expense Tracker
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=franz0072&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franz0072&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=franz0072&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/francisbm1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:francisfr007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📧 Contact
+
+**Email:** francisfr007@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/francisbm1
+
+**GitHub:** https://github.com/franz0072
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
